@@ -6,7 +6,7 @@
  
    **1.** Create a _[Customer performance report](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
-   **2.** Conduct a comprehensive comparison between _[Market performance and Sales targets](https://github.com/romerio66/Excel-SalesAnalytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+   **2.** Conduct a comprehensive comparison between _[Market performance and Sales targets](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
    **3.** Analyze _[New product sales in 2021](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/New%20Products-2021.pdf)_
 
@@ -16,7 +16,7 @@
 
    **6.** Analyze _[Top 10 product sales performance](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/Top%2010%20Products-Net%20sales.pdf)_
 
-   **7.** Examine _[Division-level sales performance](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/Top%2010%20Products-Net%20sales.pdf)_
+   **7.** Examine _[Division-level sales performance](https://github.com/romerio66/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
 
 - **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate sales activities and performance.
 
